@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="BotUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StreamName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AuthenticationKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">irc.twitch.tv</Value>
+    </Setting>
+    <Setting Name="PortNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UserFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\GoNubBotv02\WindowsApplication1\UserFiles</Value>
+    </Setting>
+    <Setting Name="RPGUserFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\GoNubBotv02\WindowsApplication1\UserFiles</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
